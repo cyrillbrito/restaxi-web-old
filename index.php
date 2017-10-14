@@ -2,16 +2,16 @@
 $lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
 switch ($lang){
     case "pt":
-        header('Location: pt.html');
+        header('Location: pt');
         break;
     case "fr":
-        header('Location: fr.html');
+        header('Location: fr');
         break;
     case "en":
-        header('Location: en.html');
+        header('Location: en');
         break;        
     default:
-        header('Location: en.html');
+        header('Location: en');
         break;
 }
 ?>
