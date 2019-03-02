@@ -1,4 +1,8 @@
-# Info tr
+# Restaxi web
+
+This a is a static page for [Taxis Restauração](https://taxisrestauracao.pt) landing page.
+
+Currently I am developing a new version, you can check it [here](https://github.com/cyrillbrito/restaxi-web).
 
 ## css and js tools
 
