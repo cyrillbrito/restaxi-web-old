@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://taxisrestauracao.pt/sitemap.xml
+Sitemap: https://cyrillbrito.github.io/restaxi-web-old/sitemap.xml
